@@ -7,4 +7,4 @@ Decision Tree implementation, in Machine Learning.
 The algorithm is implemented in C++. It took a lot of time :(
 
 ## Problem Specification
-The problem specification is described in the Assignment1.pdf. Here we will predict a cancer patient by forming a decision tree.
+The problem specification is described in the Assignment1.pdf. This project will learn by generating decision tree from some sample data and with this tree it will predict some circumstances.
